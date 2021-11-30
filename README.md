@@ -53,7 +53,7 @@ gcc -o test.exe lrparser.tab.c lex.yy.c ast.c main.c
 
  **注意：在进行案例的测试时：**
 
-1. 检查文件时，需要在命令行输入文件名；如：.\test.exe  expr.txt；
+1. 检查文件时，需要在命令行输入文件名；如：./test.exe  expr.txt；
 2. 终端只能输入一个参数（文件名），否则无法完成相应功能。
 
 ## 运行结果展示
