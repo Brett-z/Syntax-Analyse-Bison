@@ -49,7 +49,7 @@ gcc -o test.exe lrparser.tab.c lex.yy.c ast.c main.c
 7. 生成的 test.exe 可执行文件即可以对 SysY 语言进行语法分析并且生成AST。
 8. 步骤图如下：
 
-
+![步骤](%25%6081D%5B%7BH%7BT%7BFP%5D9RG%25~7Y@A.png)
 
  **注意：在进行案例的测试时：**
 
@@ -74,7 +74,7 @@ int main(){
 ```
 3. 测试结果为：
 
-
+![运行结果展示](3L(NCV%7B%5DIYV%7DK%7DRZ)%25GGTEC.png)
 
 ## 作者
 曾彬芮 2021/11/30 于四川成都
